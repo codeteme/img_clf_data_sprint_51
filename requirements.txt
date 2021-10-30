@@ -78,7 +78,6 @@ MarkupSafe==2.0.1
 matplotlib 
 matplotlib-inline 
 mistune==0.8.4
-mkl-fft==1.3.0
 mkl-random
 mkl-service==2.4.0
 more-itertools
