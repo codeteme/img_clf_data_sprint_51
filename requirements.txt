@@ -78,7 +78,6 @@ MarkupSafe==2.0.1
 matplotlib 
 matplotlib-inline 
 mistune==0.8.4
-mkl-random
 mkl-service==2.4.0
 more-itertools
 munkres==1.1.4
